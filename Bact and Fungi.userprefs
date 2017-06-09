@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SpawnAdvanced.cs">
+    <Files>
+      <File FileName="Assets/lightButton.cs" Line="1" Column="1" />
+      <File FileName="Assets/eventTimer.cs" Line="44" Column="4" />
+      <File FileName="Assets/Timer.cs" Line="1" Column="1" />
+      <File FileName="Assets/heatButton.cs" Line="1" Column="1" />
+      <File FileName="Assets/RandomPrompt.cs" Line="19" Column="3" />
+      <File FileName="Assets/movementScript.cs" Line="8" Column="24" />
+      <File FileName="Assets/SpawnAdvanced.cs" Line="32" Column="41" />
+      <File FileName="Assets/calculateScore.cs" Line="1" Column="1" />
+      <File FileName="Assets/easyModeButton.cs" Line="1" Column="1" />
+      <File FileName="Assets/EndScore.cs" Line="1" Column="1" />
+      <File FileName="Assets/hardModeButton.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/dannylekim/Bact and Fungi/Assets/ScoreUpdater.cs" line="7" column="9" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

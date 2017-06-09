@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c0a3f2b8aa89e4a079eec8d4c6264687
+timeCreated: 1489337725
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Heroes Legend
+  fontNames:
+  - Heroes Legend
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

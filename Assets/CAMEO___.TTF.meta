@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 47a41bdc335c54d5a9c37ceabc074171
+timeCreated: 1489306490
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Camel
+  fontNames:
+  - Camel
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
